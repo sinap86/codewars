@@ -29,6 +29,7 @@
 
   <modules>
     <module>evil-autocorrect-prank</module>
+    <module>directions-reduction</module>
   </modules>
 
   <dependencies>
