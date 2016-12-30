@@ -31,6 +31,7 @@
     <module>evil-autocorrect-prank</module>
     <module>directions-reduction</module>
     <module>who-won-the-election</module>
+    <module>bankers-plan</module>
   </modules>
 
   <dependencies>
