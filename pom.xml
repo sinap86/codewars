@@ -32,6 +32,7 @@
     <module>directions-reduction</module>
     <module>who-won-the-election</module>
     <module>bankers-plan</module>
+    <module>excel-column-title</module>
   </modules>
 
   <dependencies>
