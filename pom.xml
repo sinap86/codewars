@@ -33,6 +33,7 @@
     <module>who-won-the-election</module>
     <module>bankers-plan</module>
     <module>excel-column-title</module>
+    <module>reverse-polish-notation-calculator</module>
   </modules>
 
   <dependencies>
