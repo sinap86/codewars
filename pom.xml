@@ -35,6 +35,7 @@
     <module>excel-column-title</module>
     <module>reverse-polish-notation-calculator</module>
     <module>best-travel</module>
+    <module>valid-braces</module>
   </modules>
 
   <dependencies>
