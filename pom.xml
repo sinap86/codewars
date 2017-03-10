@@ -36,6 +36,7 @@
     <module>reverse-polish-notation-calculator</module>
     <module>best-travel</module>
     <module>valid-braces</module>
+    <module>recover-a-secret-string-from-random-triplets</module>
   </modules>
 
   <dependencies>
