@@ -37,6 +37,7 @@
     <module>best-travel</module>
     <module>valid-braces</module>
     <module>recover-a-secret-string-from-random-triplets</module>
+    <module>roman-numerals-encoder</module>
   </modules>
 
   <dependencies>
