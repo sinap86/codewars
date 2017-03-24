@@ -38,6 +38,7 @@
     <module>valid-braces</module>
     <module>recover-a-secret-string-from-random-triplets</module>
     <module>roman-numerals-encoder</module>
+    <module>next-bigger-number-with-the-same-digits</module>
   </modules>
 
   <dependencies>
